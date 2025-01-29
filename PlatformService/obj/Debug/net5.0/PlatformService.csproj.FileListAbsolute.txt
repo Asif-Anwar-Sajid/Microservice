@@ -70,3 +70,4 @@ C:\Users\asif\Projects\microservice\PlatformService\obj\Debug\net5.0\refint\Plat
 C:\Users\asif\Projects\microservice\PlatformService\obj\Debug\net5.0\PlatformService.pdb
 C:\Users\asif\Projects\microservice\PlatformService\obj\Debug\net5.0\PlatformService.genruntimeconfig.cache
 C:\Users\asif\Projects\microservice\PlatformService\obj\Debug\net5.0\ref\PlatformService.dll
+C:\Users\asif\Projects\Microservice\PlatformService\obj\Debug\net5.0\PlatformService.sourcelink.json
